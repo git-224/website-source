@@ -19,7 +19,7 @@ I wrote:
 >  There is no cause for worry. I will write as soon as possible. Advise others.
 >  Your loving son, Eric.
 
-![POW letter](/images/pow_letter.jpg)
+![POW letter](images/pow_letter.jpg)
 
 
 ## SUrrender!!
@@ -27,7 +27,7 @@ I wrote:
 Mrs Beverley Weir sent this item in. It is a copy of a leaflet dropped on Australian troops at Tobruk. Her uncle was Thomas Ingham, VX30904, KIA.
 (Keith Clark tells me they came in very handy as toilet paper!)
 
-![German surrender leaflet](/images/surrender.jpg)
+![German surrender leaflet](images/surrender.jpg)
 
 
 
