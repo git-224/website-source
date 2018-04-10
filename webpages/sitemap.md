@@ -16,8 +16,13 @@
     * [The 2/24th Memorial Wall at Wangaratta Cemetery](memwall/memwall.html)
     * [Addresses and Lectures](lectures.html)
 
+
+
+
   * Photograph Galleries
     * ~~~ [Photo Gallery - albums of Association events and historical photos](gallery.html) -- **currently offline!** ~~~
+
+
 
   * Information on 2/24th Battalion
     * [External Links to other websites of importance and interest (Western Desert and New Guinea)](links.html)
@@ -44,4 +49,6 @@
     * [Members who served in the Middle East](rolls/service-me.html)
     * [Roll call of Prisoners of War](rolls/pow.html)
     * [List of Plaques on the Wangaratta Memorial Wall](rolls/plaques.html)
+
+    * [Searching for service records](archives.html)
     * [Vale - 2/24 (post-war)](vale.html)
