@@ -19,6 +19,8 @@ I wrote:
 >  There is no cause for worry. I will write as soon as possible. Advise others.
 >  Your loving son, Eric.
 
+![POW letter](/images/pow_letter.jpg)
+
 
 ## SUrrender!!
 
