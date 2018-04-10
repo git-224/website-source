@@ -14,10 +14,10 @@ The two dark "patches" represent the brown paper adhesive used by the Censor to 
 
 I wrote:
 
->  Dear Mum,
->  I have been taken a prisoner of war without wounds at Tobruk. I am in good health.
->  There is no cause for worry. I will write as soon as possible. Advise others.
->  Your loving son, Eric.
+    Dear Mum,
+    I have been taken a prisoner of war without wounds at Tobruk. I am in good health.
+    There is no cause for worry. I will write as soon as possible. Advise others.
+    Your loving son, Eric.
 
 ![POW letter](images/pow_letter.jpg)
 
