@@ -37,18 +37,26 @@ You can find details on markdown in a number of places. You can get the general 
 
 Sadly markdown implementations are all sliiiiightly different so some more advanced things might sometimes not work (eg, using a picture as a link). You can still use raw html code but im hoping that wont be much of an issue most of the time.
 
+## Themes
 
+Themes are the 'webcode' wrapped around the content to make it look pretty. (Colors, layout, etc).
+
+Im looking at using some more modern website tools (such as materal-design-light) to make a more modern looking site that has a nice menu at the top and that magically resizes down when used on a phone or tablet.o
+
+Themes are the last thing that you want to do... getting the content right is priority one.
 
 
 # status of main pages
 
+  * [ ] [photo gallery](gallery.html) -- ON HOLD until i investigate tools for albums in material-design-lite
+  * [ ] [battalion rolls](rolls/roll.html)  -- ON HOLD awaiting CSV of rolls (Roland?)
+
   * [x] [Home](index.html) -- needs theming and to be made pretty like ;-)
+
   * [x] [the association](association.html)
-  * [ ] [photo gallery](gallery.html) -- ON HOLD until i get the theming done
   * [x] [history of the 2/24th](history.html)
   * [x] [external links](links.html)
   * [x] [contacts](contacts.html)
-  * [ ] [battalion rolls](rolls/roll.html)  -- ON HOLD awaiting CSV of rolls
   * [x] [memorial wall](memwall/memwall.html)
   * [x] [memories](memories.html)
   * [x] [color patches](patches.html)
@@ -63,13 +71,21 @@ Sadly markdown implementations are all sliiiiightly different so some more advan
   * [x] [stories](stories.html)
   * [x] [credits](credits.html)
   * [x] [vale](vale.html)
-  * [x] [forum - deleted] -- nuked
 
 # Todo...
 
+  * [ ] Get committee to look through site and 'tick off' contents
+
   * [ ] **product page**:  to refer to contact page for purchases contacts
   * [ ] **product page**:  remove postal address as anyone with a web browser will have email?
-  * [ ] **page**: find all 
   * [ ] **memwall**: fix images?
   * [ ] **memwall**: fix postal address?
   * [ ] **index**: remove rota as association?? make assocations another page?
+  * [ ] **index**: Needs much better theme to make it look pretty
+  * [ ] **picture gallery**: investigate materal-design-lite image carousels
+
+  * [x] **page**: find all pages  -- DONE and added to 'sitemap' page
+
+
+
+
