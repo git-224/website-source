@@ -1,0 +1,8 @@
+
+type md
+
+include /sitemap.md
+
+buildsitemap /sitemap.sitemapdata --
+
+

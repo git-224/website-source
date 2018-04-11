@@ -4,11 +4,11 @@
 
 These items may be purchased from<br>
 
-    Treasurer
-    2/24th Battalion Assoc.,
-    19 Maree Court
-    Rowville
-    Vic  3178
+>    Treasurer
+>    2/24th Battalion Assoc.,
+>    19 Maree Court
+>    Rowville
+>    Vic  3178
 
   * Payment by cheque made out to '2/24 AIF Battalion Association Inc.'
   * Prices include postage within Australia.

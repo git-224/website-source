@@ -1,0 +1,8 @@
+
+
+type md
+theme frontpage
+
+include /index.md
+
+

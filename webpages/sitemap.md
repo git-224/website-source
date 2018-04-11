@@ -17,7 +17,7 @@
   * History
     * [Short History of 2/24 at AWM and link to purchase copy of Battalion history](history.html)
     * [Story of the two Colour Patches worn by Second 24th](patches.html)
-    * [The 2/24th Memorial Wall at Wangaratta Cemetery](memwall/memwall.html)
+    * [The 2/24th Memorial Wall at Wangaratta Cemetery](memwall.html)
     * [Addresses and Lectures](lecture.html)
 
 
@@ -43,6 +43,7 @@
 
 
   * 2/24 Battalion Rolls
+    * [general information about the battalion rolls](rolls.html)
     * [Nominal Roll of the Battalion](rolls/battalion.html)
     * [Battalion - including members not serving overseas](rolls/bttn_inc_non-os.html)
     * [List of Battalion casualties](rolls/casualties.html)
@@ -52,3 +53,5 @@
     * [List of Plaques on the Wangaratta Memorial Wall](rolls/plaques.html)
     * [Searching for service records](archives.html)
     * [Vale - 2/24 (post-war)](vale.html)
+
+

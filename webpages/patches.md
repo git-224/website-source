@@ -2,15 +2,8 @@
 
 
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
-  <tr>
-    <td width="50%">
-    <p align="center">
-    <img border="0" src="images/orig_patch.jpg" width="125" height="115"></td>
-    <td width="50%">
-    <img border="0" src="images/new_patch.jpg" width="159" height="127"></td>
-  </tr>
-</table>
+![Original patch](images/orig_patch.jpg) ![New patch](images/new_patch.jpg)
+
 
 The original AIF colour patch was issued to the 2/24th Battalion when it was formed as part of the 7th Division in 1940. Its format was the same as for the First AIF - except that it had a grey background added to the original 24th Battalion's red and white diamond. The grey background for the 2/24th also distinguished it from the same red and white diamond colour patch of the 24th Battalion (Kooyong Regiment) which was a Militia unit 1943. In February 1941 the 2/24th became part of the 9th Division just before it went to North Africa for the Tobruk and Alamein campaigns. On their return to Palestine after Alamein new colour patches, in the distincive T-shape, were issued to the whole division on 17th December [1942] in time for a divisional parade at the Gaza airport on 22nd December. The Colour Patch was shaped as a **T** but with the vertical stroke truncated. The colours for the 2/24th's **T** were purple and light blue with a grey surround that again denoted it as 2nd AIF.
 
