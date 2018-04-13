@@ -43,14 +43,14 @@
 
 
   * 2/24 Battalion Rolls
-    * [general information about the battalion rolls](rolls.html)
-    * [Nominal Roll of the Battalion](rolls/battalion.html)
-    * [Battalion - including members not serving overseas](rolls/bttn_inc_non-os.html)
-    * [List of Battalion casualties](rolls/casualties.html)
-    * [Roll call of members Killed in Action (inc Died of Wounds)](rolls/kia.html)
-    * [Members who served in the Middle East](rolls/service-me.html)
-    * [Roll call of Prisoners of War](rolls/pow.html)
-    * [List of Plaques on the Wangaratta Memorial Wall](rolls/plaques.html)
+    * [general information about the battalion rolls](rolls/index.html)
+    * [Nominal Roll of the Battalion](rolls/battalion-overseas.html)
+    * [Battalion - including members not serving overseas](rolls/battalion-all.html)
+    * [List of Battalion casualties](rolls/casualties.html) [PENDING UPDATE]
+    * [Roll call of members Killed in Action (inc Died of Wounds)](rolls/kia.html) [PENDING UPDATE]
+    * [Members who served in the Middle East](rolls/service-me.html) [PENDING UPDATE]
+    * [Roll call of Prisoners of War](rolls/pow.html) [PENDING UPDATE]
+    * [List of Plaques on the Wangaratta Memorial Wall](rolls/memorial-plaques.html)
     * [Searching for service records](archives.html)
     * [Vale - 2/24 (post-war)](vale.html)
 

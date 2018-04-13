@@ -2,7 +2,7 @@
 
 type md
 
-csv /bibliography.csv   "  * **{0}** *{1}* {2} {3}"
+csv /bibliography.csv  +format "  * **{0}** *{1}* {2} {3}"
 
 include /bibliography.md
 

@@ -1,0 +1,19 @@
+
+
+type md
+
+
+include /rolls/battalion-all.md
+
+include /rolls/disclaimer.md
+
+
+echo
+echo "---"
+echo
+
+
+echo "| Surname | Given name | Service Number | Notes | Decd |"
+echo "| ------- | ---------- | -------------- | ----- | ---- |"
+
+csv /rolls/battalion-all.csv +drop 3 +format "| {0} | {1} | {2} | {3} | {4} |"

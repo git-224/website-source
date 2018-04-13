@@ -1,0 +1,21 @@
+
+
+type md
+
+
+include /rolls/memorial-plaques.md
+
+include /rolls/disclaimer.md
+
+
+echo
+echo "---"
+echo
+
+echo "| Surname | ? | Initials | Service | DOD | Sent | Decoration | ? | Location |"
+echo "| ------- | - | -------- | ------- | --- | ---- | ---------- | - | -------- |"
+
+csv /rolls/memorial-plaques.csv +drop 4 +format "| {0} | {1} | {2} | {3} | {4} | {5} | {6} | {7} | {8} |"
+
+
+

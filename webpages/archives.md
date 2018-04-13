@@ -18,7 +18,7 @@ On this site you can access detailed service records by viewing online (if avail
 
 As an example, imagine we are looking for a member of the 2/24th Battalion whose name is **Smith**:
 
-  * If you do not know the Service Number then look it up on the [Battalion Roll](rolls/battalion.html) or look on the Nominal Roll site in the section above.
+  * If you do not know the Service Number then look it up on the [Battalion Rolls](rolls/index.html) or look on the Nominal Roll site in the section above.
 
   * With a soldier's Full Name and Service Number you can search for the service record on the website of the [National Archives](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx)
 
