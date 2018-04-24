@@ -49,7 +49,7 @@ Themes are the last thing that you want to do... getting the content right is pr
 # status of main pages
 
   * [ ] [photo gallery](gallery.html) -- ON HOLD until i investigate tools for albums in material-design-lite
-  * [ ] [battalion rolls](rolls/roll.html)  -- ON HOLD awaiting CSV of rolls (Roland?)
+  * [?] [battalion rolls](rolls/roll.html)  -- In progress - vale and ME lists to go
 
   * [x] [Home](index.html) -- needs theming and to be made pretty like ;-)
 
@@ -83,6 +83,7 @@ Themes are the last thing that you want to do... getting the content right is pr
   * [ ] **index**: remove rota as association?? make assocations another page?
   * [ ] **index**: Needs much better theme to make it look pretty
   * [ ] **picture gallery**: investigate materal-design-lite image carousels
+  * [ ] **rolls**: add explination of notes and tags to each roll
 
   * [x] **page**: find all pages  -- DONE and added to 'sitemap' page
 

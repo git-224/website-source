@@ -1,0 +1,12 @@
+
+include libraries.inc
+include page.defaults.inc
+
+
+output.html templates/head.html
+output.html templates/menu.top.html
+
+output.page
+
+output.html templates/menu.bottom.html
+output.html templates/footer.html

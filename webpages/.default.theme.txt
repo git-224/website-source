@@ -1,1 +1,1 @@
-standardpage
+/bootstrap4/default.theme

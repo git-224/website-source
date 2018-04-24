@@ -1,7 +1,7 @@
 
 
 type md
-theme frontpage
+theme new.frontpage
 
 include /index.md
 

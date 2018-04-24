@@ -5,6 +5,24 @@ type md
 
 include /vale.md
 
+echo
+echo <hr>
+echo
+
 csv /vale.csv  +format "  * **{0}** *{1}*  {2}"
 
 
+
+echo
+echo <hr>
+echo
+
+
+include /vale_widows.md
+
+
+echo
+echo <hr>
+echo
+
+csv /vale_widows.csv  +format "  * **{0}** {2} {1}"

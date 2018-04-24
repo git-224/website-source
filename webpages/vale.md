@@ -12,4 +12,3 @@
 
 The 2/24 battalion remembers these members and pays tribute to their memory and give thanks for their contribution.
 
-
