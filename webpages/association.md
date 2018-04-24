@@ -28,23 +28,13 @@ Town Clerk J Elward
 
 # 2/24th Battalion Pennant
 
-The Battalion&rsquo;s Pennant resides at the
-Wangaratta Council Chambers. Positioned at the top of the stairs it is
-very impressive and emphasises the strong bond between Wangaratta and
-the 2/24th Battalion "Wangaratta's Own".
+The Battalion&rsquo;s Pennant resides at the Wangaratta Council Chambers. Positioned at the top of the stairs it is very impressive and emphasises the strong bond between Wangaratta and the 2/24th Battalion "Wangaratta's Own".
 
-Unfortunately, the pennant was showing signs of wear and tear and
-needed to be replaced. The Council has very generously paid for the new
-pennant, plus another pennant to be located at Wangaratta High School
-and used for their ANZAC Day ceremonies on ANZAC day eve.
+Unfortunately, the pennant was showing signs of wear and tear and needed to be replaced. The Council has very generously paid for the new pennant, plus another pennant to be located at Wangaratta High School and used for their ANZAC Day ceremonies on ANZAC day eve.
 
-We are aware that several people have been responsible for replacing
-the Pennants and we thank them all, particularly Cr Roberto Paino and
-Cr Don Joyce.
+We are aware that several people have been responsible for replacing the Pennants and we thank them all, particularly Cr Roberto Paino and Cr Don Joyce.
 
-The Association is very grateful for the support from the Council,
-Schools and the local community for our efforts to preserve the story
-of 2/24th Battalion for the interest of future generations.
+The Association is very grateful for the support from the Council, Schools and the local community for our efforts to preserve the story of 2/24th Battalion for the interest of future generations.  
 
 ![Pennant of the 2/24th](images/pennant.jpg)
 
