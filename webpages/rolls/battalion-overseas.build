@@ -12,8 +12,8 @@ echo
 
 
 
-echo "| Surname | Given name | Service Number | Service | Decoration | Notes | Decd |"
-echo "| ------- | ---------- | -------------- | ------- | ---------- | ----- | ---- |"
+echo | Surname | Given name | Service Number | Service | Decoration | Notes | Decd |
+echo | ------- | ---------- | -------------- | ------- | ---------- | ----- | ---- |
 
 output.csv /rolls/battalion-overseas.csv
 .drop 1
