@@ -1,11 +1,9 @@
 
 
-type md
 
+output.md /rolls/memorial-plaques.md
 
-include /rolls/memorial-plaques.md
-
-include /rolls/disclaimer.md
+output.md /rolls/disclaimer.md
 
 
 echo
@@ -15,7 +13,9 @@ echo
 echo "| Surname | Initials | Service | DOD | Sent | Decoration | Location |"
 echo "| ------- | -------- | ------- | --- | ---- | ---------- | -------- |"
 
-csv /rolls/memorial-plaques.csv +drop 4 +format "| {0} | {2} | {3} | {4} | {5} | {6} | {8} |"
+output.csv /rolls/memorial-plaques.csv
+.drop 4
+.format "| {0} | {2} | {3} | {4} | {5} | {6} | {8} |"
 
 
 

@@ -1,10 +1,10 @@
 
 
-type md
 
-csv /bibliography.csv  +format "  * **{0}** *{1}* {2} {3}"
+output.csv  md   /bibliography.csv
+.format     * **{0}** *{1}* {2} {3}
 
-include /bibliography.md
+output.md  /bibliography.md
 
 
 

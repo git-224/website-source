@@ -1,8 +1,6 @@
 
 
-type md
-theme new.frontpage
 
-include /index.md
+output.md /index.md
 
 

@@ -1,28 +1,29 @@
 
 
-type md
 
 
-include /vale.md
-
-echo
-echo <hr>
-echo
-
-csv /vale.csv  +format "  * **{0}** *{1}*  {2}"
-
-
+output.md /vale.md
 
 echo
 echo <hr>
 echo
 
+output.csv md /vale.csv
+.format    * **{0}** *{1}*  {2}
 
-include /vale_widows.md
 
 
 echo
 echo <hr>
 echo
 
-csv /vale_widows.csv  +format "  * **{0}** {2} {1}"
+
+output.md /vale_widows.md
+
+
+echo
+echo <hr>
+echo
+
+output.csv md /vale_widows.csv
+.format   * **{0}** {2} {1}

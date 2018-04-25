@@ -1,8 +1,7 @@
 
-type md
 
-include /sitemap.md
+output.md /sitemap.md
 
-buildsitemap /sitemap.sitemapdata --
+#buildsitemap /sitemap.sitemapdata --
 
 

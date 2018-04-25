@@ -1,11 +1,10 @@
 
 
-type md
 
 
-include /rolls/pow.md
+output.md /rolls/pow.md
 
-include /rolls/disclaimer.md
+output.md /rolls/disclaimer.md
 
 
 echo
@@ -15,6 +14,8 @@ echo
 echo "| Surname | GivenName | ServiceNumber | Date |"
 echo "| ------- | --------- | ------------- | ---- |"
 
-csv /rolls/pow.csv +drop 3 +format "| {1} | {3} | {4} | {5} |"
+output.csv md /rolls/pow.csv
+.drop 3
+.format "| {1} | {3} | {4} | {5} |"
 
 
