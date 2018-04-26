@@ -15,7 +15,7 @@ Editor *Furphy Flyer in Mufti* |  Alastair Davison
 Web Site                       | Alastair Davison
                                | Cameron Blackwood
 Committee                      | Keith Anderson
-                               | Karen O'Keefe
+                               | Karen O'shea
                                | Sandra Sharp
 Adjunct Committee              | Mark Quinn
                                | Greg Larkins
