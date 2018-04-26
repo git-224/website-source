@@ -6,16 +6,15 @@ output.md /rolls/battalion-overseas.md
 
 output.md /rolls/disclaimer.md
 
-echo
-echo "---"
-echo
+
+output.html /rolls/simplesearch.html
 
 
-
-echo | Surname | Given name | Service Number | Service | Decoration | Notes | Decd |
-echo | ------- | ---------- | -------------- | ------- | ---------- | ----- | ---- |
-
-output.csv /rolls/battalion-overseas.csv
+output.csv md /rolls/battalion-overseas.csv
+.output   | Surname | Given name | Service Number | Service | Decoration | Notes | Decd |
+.output   | ------- | ---------- | -------------- | ------- | ---------- | ----- | ---- |
 .drop 1
-.format | {0} | {1} | {2} | {3} | {4} | {5} | {6} |
+.format   | {0} | {1} | {2} | {3} | {4} | {5} | {6} |
 
+
+output.html /rolls/simplesearch.js

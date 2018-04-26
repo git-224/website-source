@@ -7,15 +7,15 @@ output.md /rolls/disclaimer.md
 
 
 echo
-echo "---"
+echo   <hr>
 echo
 
-echo "| Surname | Initials | Service | DOD | Sent | Decoration | Location |"
-echo "| ------- | -------- | ------- | --- | ---- | ---------- | -------- |"
 
-output.csv /rolls/memorial-plaques.csv
+output.csv md /rolls/memorial-plaques.csv
+.output  | Surname | Initials | Service | DOD | Sent | Decoration | Location |
+.output  | ------- | -------- | ------- | --- | ---- | ---------- | -------- |
 .drop 4
-.format "| {0} | {2} | {3} | {4} | {5} | {6} | {8} |"
+.format  | {0} | {2} | {3} | {4} | {5} | {6} | {8} |
 
 
 

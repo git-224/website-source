@@ -7,14 +7,17 @@ output.md /rolls/battalion-all.md
 output.md /rolls/disclaimer.md
 
 
-echo
-echo "---"
-echo
 
 
-echo "| Surname | Given name | Service Number | Notes | Decd |"
-echo "| ------- | ---------- | -------------- | ----- | ---- |"
+output.html /rolls/simplesearch.html
+
 
 output.csv md /rolls/battalion-all.csv
+.output  | Surname | Given name | Service Number | Notes | Decd |
+.output  | ------- | ---------- | -------------- | ----- | ---- |
 .drop 3
 .format  | {0} | {1} | {2} | {3} | {4} |
+
+
+
+output.html /rolls/simplesearch.js

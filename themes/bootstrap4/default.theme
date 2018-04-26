@@ -4,6 +4,8 @@ include page.defaults.inc
 
 
 output.html templates/head.html
+.hasvariables
+
 output.html templates/menu.top.html
 
 output.html templates/body.begin.html
@@ -14,4 +16,6 @@ output.html templates/body.end.html
 
 
 output.html templates/menu.bottom.html
+
 output.html templates/footer.html
+.hasvariables
