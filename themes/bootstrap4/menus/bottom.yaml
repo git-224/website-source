@@ -1,0 +1,20 @@
+
+location: bottom
+home:
+  url: /index.html
+  contents:
+    - image /images/menu_d_patch.png
+    - html  2/24th Battalion
+    - image /images/menu_t_patch.png
+
+menu:
+  - link /sitemap.html Sitemap
+  - link /credits.html Credits
+  - html ABN 44 692 430 316
+
+menuright:
+  - html Design by Arramlu<br /> &copy; 2008-18 2/24th Battalion Association Inc
+  - link /sitemap.html webmaster
+
+
+

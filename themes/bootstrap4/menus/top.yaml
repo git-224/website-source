@@ -1,0 +1,46 @@
+
+sticky: Yes
+home:
+  url: /index.html
+  contents:
+    - image /images/menu_d_patch.png
+    - html  2/24th Battalion
+    - image /images/menu_t_patch.png
+
+menu:
+  - name: About
+    contents:
+      - link /association.html  The Association
+      - link /memwall.html  Memorial wall
+      - link /committee.html  Committee
+      - link /contacts.html  Contacts
+      - link /products.html  Products
+      - link /fflyer.html  Furphy Flyer
+      - rule
+      - link /links.html  External Links
+
+  - name: History
+    contents:
+      - link /history.html   History of the 2/24th
+      - link /patches.html   Colour patches
+      - rule
+      - link /lecture.html   Addresses and lectures
+      - link /stories.html   Stories
+      - link /memories.html   Memories
+      - rule
+      - link /bibliography.html   Bibliography
+      - link /reviews.html  Reviews
+
+  - name: Rolls
+    contents:
+      - link /rolls/index.html  Rolls
+      - link /vale.html   Vale
+      - link /archives.html  Searching Archives
+
+  - link /gallery.html Gallery
+
+
+
+###
+### After: <div style="padding-top:65px;"></div>
+###
