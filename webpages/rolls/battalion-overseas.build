@@ -2,19 +2,20 @@
 
 
 
-output.md /rolls/battalion-overseas.md
+file  /rolls/battalion-overseas.md
 
-output.md /rolls/disclaimer.md
-
-
-output.html /rolls/simplesearch.html
+file  /rolls/disclaimer.md
 
 
-output.csv md /rolls/battalion-overseas.csv
+file  /rolls/simplesearch.html
+
+
+file  /rolls/battalion-overseas.csv
+.drop 1
 .output   | Surname | Given name | Service Number | Service | Decoration | Notes | Decd |
 .output   | ------- | ---------- | -------------- | ------- | ---------- | ----- | ---- |
-.drop 1
 .format   | {0} | {1} | {2} | {3} | {4} | {5} | {6} |
+.convert  md
 
 
-output.html /rolls/simplesearch.js
+file  /rolls/simplesearch.js

@@ -2,28 +2,30 @@
 
 
 
-output.md /vale.md
+file  /vale.md
 
 echo
 echo <hr>
 echo
 
-output.csv md /vale.csv
+
+file  /vale.csv
 .format    * **{0}** *{1}*  {2}
-
-
-
-echo
-echo <hr>
-echo
-
-
-output.md /vale_widows.md
+.convert  md
 
 
 echo
 echo <hr>
 echo
 
-output.csv md /vale_widows.csv
+
+file  /vale_widows.md
+
+
+echo
+echo <hr>
+echo
+
+file  /vale_widows.csv
 .format   * **{0}** {2} {1}
+.convert md

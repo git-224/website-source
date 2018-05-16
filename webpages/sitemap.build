@@ -1,6 +1,6 @@
 
 
-output.md /sitemap.md
+file  /sitemap.md
 
 #buildsitemap /sitemap.sitemapdata --
 

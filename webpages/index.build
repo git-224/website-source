@@ -1,7 +1,7 @@
 
 
-output.html index.head.html
+file /index.head.html
 
-output.md /index.md
+file /index.md
 
 

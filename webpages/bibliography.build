@@ -1,10 +1,12 @@
 
 
 
-output.csv  md   /bibliography.csv
+file  /bibliography.csv
 .format     * **{0}** *{1}* {2} {3}
+.convert    md
 
-output.md  /bibliography.md
+
+file  /bibliography.md
 
 
 

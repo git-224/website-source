@@ -3,19 +3,25 @@ import os
 import sys
 sys.path.append('..')
 
-import human2website as h2w
-import human2website.toolkits.bootstrap4dualmenu as toolkit
+import human2website.builder as builder
+import human2website.toolkits.bootstrap4
 
 import xmenus
 
 
-ht=h2w.HumanTree(toolkit,'webpages/')
-
-ht.setting('menu.top', toolkit.MenuDump( xmenus.menutop ).converthtml() )
-ht.setting('menu.bottom', toolkit.MenuDump( xmenus.menubottom ).converthtml() )
+toolkit=human2website.toolkits.bootstrap4.DualMenu()
 
 
-ht.saveto('../2-24-battalion-org-au.github.io')
+
+toolkit.setting('menutop', toolkit.menu2html( xmenus.menutop ) )
+toolkit.setting('menubottom', toolkit.menu2html( xmenus.menubottom ) )
+toolkit.setting('title','2-24th Battalion Association')
+toolkit.setting('keywords',"Tobruk, 2nd AIF, Tel El Eisa, El Alamein, Rats of Tobruk, World War 2, ANZAC, Australian Army, 9th Division, Salient, Halfaya Pass, Tarakan, New Guinea, Finschhafen, Lae, Wangaratta's Own")
+
+ht=builder.HumanTree(toolkit,'webpages/','../2-24-battalion-org-au.github.io')
+
+ht.precopy('/CNAME')
+ht.build_final()
 
 
 

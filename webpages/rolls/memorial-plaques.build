@@ -1,9 +1,9 @@
 
 
 
-output.md /rolls/memorial-plaques.md
+file  /rolls/memorial-plaques.md
 
-output.md /rolls/disclaimer.md
+file  /rolls/disclaimer.md
 
 
 echo
@@ -11,11 +11,12 @@ echo   <hr>
 echo
 
 
-output.csv md /rolls/memorial-plaques.csv
+file  /rolls/memorial-plaques.csv
+.drop 4
 .output  | Surname | Initials | Service | DOD | Sent | Decoration | Location |
 .output  | ------- | -------- | ------- | --- | ---- | ---------- | -------- |
-.drop 4
 .format  | {0} | {2} | {3} | {4} | {5} | {6} | {8} |
+.convert  md
 
 
 

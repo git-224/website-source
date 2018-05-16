@@ -2,20 +2,21 @@
 
 
 
-output.md /rolls/pow.md
+file  /rolls/pow.md
 
-output.md /rolls/disclaimer.md
-
-
-
-output.html /rolls/simplesearch.html
+file  /rolls/disclaimer.md
 
 
-output.csv md /rolls/pow.csv
+
+file  /rolls/simplesearch.html
+
+
+file  /rolls/pow.csv
+.drop 3
 .output  | Surname | GivenName | ServiceNumber | Date |
 .output  | ------- | --------- | ------------- | ---- |
-.drop 3
 .format  | {1} | {3} | {4} | {5} |
+.convert  md
 
 
-output.html /rolls/simplesearch.js
+file  /rolls/simplesearch.js

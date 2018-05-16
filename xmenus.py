@@ -1,6 +1,6 @@
 
 
-from human2website import menu
+import human2website.builder.menu as menu
 
 
 

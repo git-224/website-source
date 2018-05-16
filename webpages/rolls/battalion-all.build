@@ -2,22 +2,23 @@
 
 
 
-output.md /rolls/battalion-all.md
+file  /rolls/battalion-all.md
 
-output.md /rolls/disclaimer.md
-
-
+file  /rolls/disclaimer.md
 
 
-output.html /rolls/simplesearch.html
 
 
-output.csv md /rolls/battalion-all.csv
+file  /rolls/simplesearch.html
+
+
+file  /rolls/battalion-all.csv
+.drop 3
 .output  | Surname | Given name | Service Number | Notes | Decd |
 .output  | ------- | ---------- | -------------- | ----- | ---- |
-.drop 3
 .format  | {0} | {1} | {2} | {3} | {4} |
+.convert md
 
 
 
-output.html /rolls/simplesearch.js
+file  /rolls/simplesearch.js

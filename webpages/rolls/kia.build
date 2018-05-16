@@ -1,20 +1,21 @@
 
 
 
-output.md /rolls/kia.md
+file  /rolls/kia.md
 
-output.md /rolls/disclaimer.md
-
-
-
-output.html /rolls/simplesearch.html
+file  /rolls/disclaimer.md
 
 
-output.csv md /rolls/kia.csv
+
+file  /rolls/simplesearch.html
+
+
+file  /rolls/kia.csv
+.drop 3
 .output  | Surname | GivenName | ServiceNumber | Company | Platoon | List | Notes | Decd | casualty | battle date |
 .output  | ------- | --------- | ------------- | ------- | ------- | ---- | ----- | ---- | -------- | ----------- |
-.drop 3
 .format  | {0} | {1} | {2} | {3} | {4} | {5} | {6} | {7} | {8} | {9} |
+.convert  md
 
 
-output.html /rolls/simplesearch.js
+file  /rolls/simplesearch.js
