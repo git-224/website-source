@@ -2,6 +2,13 @@
 
 file /index.head.html
 
-file /index.md
+
+cards.begin
+
+include.album  /cards.frontpage/index.album
+
+cards.end
+
+
 
 
