@@ -1,11 +1,11 @@
 
 
 image.carousel  2/24th Memorials
-.image /frontpage/images/9thDiv_elal.jpg
-.image /frontpage/images/acroma2.jpg
-.image /frontpage/images/figtree08.jpg
-.image /frontpage/images/tobruk_cem1.jpg
-.image /frontpage/images/tobruk_cem2.jpg
+.image /cards.frontpage/images/9thDiv_elal.jpg
+.image /cards.frontpage/images/acroma2.jpg
+.image /cards.frontpage/images/figtree08.jpg
+.image /cards.frontpage/images/tobruk_cem1.jpg
+.image /cards.frontpage/images/tobruk_cem2.jpg
 
 
 
@@ -43,41 +43,6 @@ Under the 'Adopt an Ex-Service Association' program, sponsored by the Shrine of 
 [ ![Rats of Tobruk](images/rota.png){: style="float:right"} ](http://ratsoftobrukvictoria.org.au/)
 
 Visit the Rats of Tobruk website
-
-
-
-----------------
-
-card.eventlist      Upcoming 2/24th Events
-
-.event  2018/4/26     Anzac day March and Reunion
-.event.time            Check Furphy Flyer for exact details
-.event.location.human  Flinders st, Check Furphy Flyer
-.event.location.maps   Flinders St, Melbourne, Australia
-
-.event  2018/4/26     Anzac Reunion Lunch
-.event.time            12:00pm-2:00pm
-.event.location.human  Pascoe Vale RSL
-.event.location.maps   40 Cumberland Rd, Pascoe Vale VIC 3044, Australia
-
-.event  2018/7/6      Battalion Birthday Lunch
-.event.time            12:00pm-2:00pm
-.event.location.human  Pascoe Vale RSL
-.event.location.maps   40 Cumberland Rd, Pascoe Vale VIC 3044, Australia
-
-.event  2018/10/21    2/24th Shrine Pilgrimage Service
-.event.time            TBA: check Furphy Flyer
-.event.location.maps   Shine of Rememberance, Melboure, Australia
-
-.event  2018/10/21    9th Division Shrine Pilgrimage Service
-.event.time            TBA: check Furphy Flyer
-.event.location.maps   Shine of Rememberance, Melboure, Australia
-
-.event  2018/11/9-2018/11/11  Wangaratta Reunion Weekend
-.event.time            Various events
-.event.location.human  Various locations around Wangaratta
-.event.location.maps   Wangaratta, Victoria, Australia
-
 
 
 
