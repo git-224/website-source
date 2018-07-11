@@ -5,7 +5,18 @@
 
 From the street walk through the **Memorial Gates** and you are in 2/24 Battalion Drive - the main entrance to the Cemetery. 
 Immediately on the right is the bluestone Memorial Wall with gumtree sentinels. These 24 eucalyptus trees are dedicated to the memory of the men who gave their lives in the cause of freedom during World War 2. The trees were planted on 29 May 1993 in two rows of twelve trees each side of the wall to define the Battalion. Two trees stand on the other side of 2/24 Battalion Drive to symbolise the Second AIF, completing the symbol of 2/24.
-![24Trees](memwall/24 trees.jpg)
+
+<div class="card shadow col-sm-6 col-md-4 col-lg-3 p-3 mb-5 bg-white rounded
+">
+  <img class="card-img-top" src="memwall/24_trees.jpg" alt="trees near the memorial wall">
+  <div class="card-body">
+    <h5 class="card-title">2/24th Memorials</h5>
+    <p class="card-text">
+    </p>
+   </div> <!-- end cardbody -->
+</div>
+
+
 **The Memorial Wall** consists of two bluestone walls abutting a centre bluestone column with the Honour Roll of the men of the 2/24th who died on active service, along with individual plaques of the Battalion Commanders. Over 250 other individual plaques dedicated to servicemen who have died since the War are mounted on the bluestone walls.
 
 Families of 2/24th who wish to have a plaque honouring their serviceman should contact the Secretary of the 2/24 Battalion Association to request an application form. Contact details are
