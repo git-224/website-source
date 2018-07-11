@@ -3,7 +3,7 @@
 ## Memorial Wall Precinct
 ## at Wangaratta Cemetery, Mason Street, Wangaratta
 
-From the street walk through the Memorial Gates and you are in 2/24 Battalion Drive - the main entrance to the Cemetery. 
+From the street walk through the **Memorial Gates** and you are in 2/24 Battalion Drive - the main entrance to the Cemetery. 
 Immediately on the right is the bluestone Memorial Wall with gumtree sentinels. These 24 eucalyptus trees are dedicated to the memory of the men who gave their lives in the cause of freedom during World War 2. The trees were planted on 29 May 1993 in two rows of twelve trees each side of the wall to define the Battalion. Two trees stand on the other side of 2/24 Battalion Drive to symbolise the Second AIF, completing the symbol of 2/24.
 
 **The Memorial Wall** consists of two bluestone walls abutting a centre bluestone column with the Honour Roll of the men of the 2/24th who died on active service, along with individual plaques of the Battalion Commanders. Over 250 other individual plaques dedicated to servicemen who have died since the War are mounted on the bluestone walls.
