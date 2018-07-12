@@ -9,6 +9,7 @@ event            Anzac day March
 .time            Check Furphy Flyer for exact details
 .location        Check Furphy Flyer
 .location.maps   Flinders St, Melbourne, Australia
+.disable
 
 event            Anzac Reunion Lunch
 .date            2018/4/26
@@ -16,6 +17,7 @@ event            Anzac Reunion Lunch
 .time            12:00pm-2:00pm
 .location        Pascoe Vale RSL
 .location.maps   40 Cumberland Rd, Pascoe Vale VIC 3044, Australia
+.disable
 
 event            Battalion Birthday Lunch
 .date            2018/7/6
@@ -23,11 +25,12 @@ event            Battalion Birthday Lunch
 .time            12:00pm-2:00pm
 .location        Pascoe Vale RSL
 .location.maps   40 Cumberland Rd, Pascoe Vale VIC 3044, Australia
+.disable
 
 event            2/24th Shrine Pilgrimage Service
 .date            2018/10/21
 .image           /image.cardheaders/shrine.jpg
-.time            TBA: check Furphy Flyer
+.time            12:00pm-2:00pm
 .location.maps   Shine of Rememberance, Melboure, Australia
 
 event            9th Division Shrine Pilgrimage Service
