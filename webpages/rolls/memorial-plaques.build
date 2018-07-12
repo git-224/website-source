@@ -17,6 +17,7 @@ echo
 
 file  /rolls/memorial-plaques.csv
 .drop 2
+.drop from PREPAID
 .output  | Surname | Initials | Service | DOD | Sent | Decoration | Location |
 .output  | ------- | -------- | ------- | --- | ---- | ---------- | -------- |
 .format  | {0} | {2} | {3} | {4} | {5} | {6} | {8} |
