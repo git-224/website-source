@@ -15,7 +15,8 @@ toolkit=human2website.toolkits.bootstrap4.dualmenu.DualMenu()
 
 
 
-ht=builder.HumanTree(toolkit,'webpages/','../2-24-battalion-org-au.github.io')
+ht=builder.HumanTree(toolkit,'webpages/','../2-24.battalion.org.au/www')
+
 
 
 toolkit.setting('menutop', toolkit.menu2html( xmenus.menutop ) )
