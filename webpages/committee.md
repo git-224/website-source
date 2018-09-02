@@ -17,6 +17,7 @@
 | Committee                      | Keith Anderson |
 |                                | Karen O'shea |
 |                                | Sandra Sharp |
+|                                | Rod Wilson |
 | Adjunct Committee              | Mark Quinn |
 |                                | Greg Larkins |
 |                                | Julie Skalka |
