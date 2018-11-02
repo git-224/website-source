@@ -11,7 +11,7 @@
 | Treasurer                      | Roland Nicholson |
 | Assistant Treasurer            | Cameron Blackwood |
 | Assistant Secretary            | Janice Young |
-| Editor *Furphy Flyer in Mufti* |  Alastair Davison |
+| Editor *Furphy Flyer in Mufti* | Alastair Davison |
 | Web Site                       | Alastair Davison |
 |                                | Cameron Blackwood |
 | Committee                      | Karen O'shea |
