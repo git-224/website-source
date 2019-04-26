@@ -31,6 +31,6 @@ The cost of a plaque is $88 inc GST. Plaques are inscribed and mounted by the lo
   * The Memorial Wall was unveiled on 8 November 1997 by the Mayor of Wangaratta, Cr Geoff Dinning and 2/24 President, Alan Macfarlane, and dedication by Robin Mitchell VX67518.
   * The Bluestone Piers and Gates were unveiled on 10 November 2007 by Mayor of Wangaratta, Cr Don Joyce, and President of 2/24 Battalion Association, Alan Macfarlane, and dedicated by The Right Rev David Farrer, the Bishop of Wangaratta.
   * The Marble Panels above the Honour Roll were unveiled on 5 November 2011 by the Mayor of Wangaratta, Cr Anthony Griffiths and President of 2/24 Association, Doug Dobson, and dedicated by Association Secretary, Alastair Davison.
-  * The Drinking Fountain in the gazebo was donated by the Weir Family and dedicated by the Very Rev Michael O'Brien on 10 November 2012. The entrance road was named 2/2 Battalion Drive in 2012.
+  * The Drinking Fountain in the gazebo was donated by the Weir Family and dedicated by the Very Rev Michael O'Brien on 10 November 2012. The entrance road was named 2/24 Battalion Drive in 2012.
   * The Bench Seat facing the Wall from across the drive was donated by Hautrie Crick in memory of his Tobruk mates. It was unveiled and dedicated on 9 November 2013.
 
