@@ -10,7 +10,7 @@ On this [Nominal Roll site](http://www.ww2roll.gov.au/) you can search by Name, 
 
 If the name is known, but not the service number, then click on the Name tab, select Army and then enter as much detail as possible. The more detail, the smaller the number of results.
 
-If the Service Number is known then this will give the details immediately. From this summary a certificate can be printed, and a link to the National Archives site is provided.
+If the Service Number is known then this will give the details immediately. From this summary a certificate can be printed.
  
 ## Searching for Service Records on the National Archives Website
 
@@ -19,20 +19,20 @@ On this site you can access detailed service records by viewing online (if avail
 
   * With a soldier's Full Name and Service Number you can search for the service record on the website of the [National Archives](http://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx). Click on **guest** in the bottom line of the page.
 
-[Note: not all World War II records have been digitised, so full details of all service personnel are not available online. If they are not listed as digitised then it is necessary to purchase the record]
+[Note: not all World War II records have been digitised, so all service personnel are not available online. If they are not listed as digitised then it is necessary to purchase the record]
 
 # Using the **Name Search** Option
 
   Click on the **Name Search** tab to bring up the search page.
-  1. Enter family name in the top box
-  2. Enter Given names
-  3. Select World War II from the drop-down list 
-  4. Enter full Service number (eg VX00000)
+  1. Enter *Family name* in the top box
+  2. Enter *Given names*
+  3. Select World War II from the *Categoryof records* drop-down list 
+  4. Enter * Service number* (eg VX00000)
   5. Click **Search**
-There should only be one person listed if details are correct. Click **Display**. 
-     [If more than one name is displayed, tick the box to left of the required name and then click on View selection at the foot of the page. Double click on the record]
-The search result should show a row headed **Title** containing the family name, first names, Service Number, Place of Birth, Place of Enlistment and Next of Kin.
-In the blue bar above Title and headed **Item details for:** there may be one or two links on the right-hand side – **PDF/ View digital copy** or **Request copy**.  
+There should only be one person listed if the details are correct. Click **Display**. 
+     [If more than one name is displayed, tick the box to left of the required name and then click on **View selection** at the foot of the page. Double click on the record]
+The search result should show a row headed **Title** containing the Family name, First names, Service Number, Place of Birth, Place of Enlistment and Next of Kin.
+In the blue bar above **Title** and headed **Item details for:** there may be one or two links on the right-hand side – **PDF/ View digital copy** or **Request copy**.  
 If PDF and View digital copy are visible then click on PDF to download and save the Service record; or View to see the full, available records on the website.
 If **Request copy** is the only link this means that the record has not been digitised and must be purchased to see or download the record. 
 To purchase a Digital Copy [price as at 25 April 2019 is $36.27 inc. GST]
