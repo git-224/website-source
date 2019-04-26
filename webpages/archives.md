@@ -21,7 +21,7 @@ On this site you can access detailed service records by viewing online (if avail
 
 [Note: not all World War II records have been digitised, so full details of all service personnel are not available online. If they are not listed as digitised then it is necessary to purchase the record]
 
-## Using the **Name Search** Option
+# Using the **Name Search** Option
 
   Click on the **Name Search** tab to bring up the search page.
   1. Enter family name in the top box
@@ -38,7 +38,7 @@ If **Request copy** is the only link this means that the record has not been dig
 To purchase a Digital Copy [price as at 25 April 2019 is $36.27 inc. GST]
 1.	Click on **Request a copy**
 2.	Read instructions and click on **Continue**
-3.	Click on Living or Deceased, then Ccick on **Continue**
+3.	Click on Living or Deceased, then click on **Continue**
 4.	Check the details and click on **Proceed to Checkout**
 5.	Click on **No**, continue to checkout…  unless you will be using the site to purchase more records.
 6.	Enter details for the fields marked with red asterisk (*). If the billing address is the same as already entered check the box and scroll down to **Proceed to payment** details.
