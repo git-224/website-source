@@ -8,7 +8,7 @@
 
 On this [Nominal Roll site](http://www.ww2roll.gov.au/) you can search by Name, Service Number, Honours, or Place (of birth, locality of residence, enlistment) to see a summary of a person's service record. Once found it is possible to print out a copy.
 
-If the name is known, but not the service number, then click on the Name tab, select Army and then enter as much detail as possible. The more detail, the smaller the number of results.
+If the name is known, but not the service number, then click on the Name tab, select Army and then enter as much detail as possible. The more detail, the fewer results.
 
 If the Service Number is known then this will give the details immediately. From this summary a certificate can be printed.
  
