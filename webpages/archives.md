@@ -21,7 +21,7 @@ On this site you can access detailed service records by viewing online (if avail
 
 [Note: not all World War II records have been digitised, so all service personnel are not available online. If they are not listed as digitised then it is necessary to purchase the record]
 
-# Using the **Name Search** Option
+### Using the **Name Search** Option
 
   Click on the **Name Search** tab to bring up the search page.
   1. Enter *Family name* in the top box
