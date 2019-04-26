@@ -35,7 +35,8 @@ The search result should show a row headed **Title** containing the Family name,
 In the blue bar above **Title** and headed **Item details for:** there may be one or two links on the right-hand side – **PDF/ View digital copy** or **Request copy**.  
 If PDF and View digital copy are visible then click on **PDF** to download and save the Service record; or **View** to see the full, available records on the website.
 If **Request copy** is the only link this means that the record has not been digitised and must be purchased to see or download the record. 
-### To purchase a Digital Copy [price at 25 April 2019 was $36.27 inc. GST]
+### To purchase a Digital Copy 
+[price at 25 April 2019 was $36.27 inc. GST]
 1.	Click on **Request a copy**
 2.	Read instructions and click on **Continue**
 3.	Click on *Living* or *Deceased*, then click on **Continue**
