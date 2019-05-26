@@ -60,8 +60,8 @@ menubottom={ 'home':HOMEBUTTON,
                [ menu.Html,'ABN 44 692 430 316' ],
              ],
              'menuright':[
-               [ menu.Html,'Design by Arramlu<br /> &copy; 2008-18 2/24th Battalion Association Inc' ],
-               [ menu.Link,'mailto:webmaster@2-24.battalion.org.au','contact' ],
+               [ menu.Html,'Design by Arramlu<br /> &copy; 2008-2019 2/24th Battalion Association Inc' ],
+               [ menu.Link,'mailto:webmaster@2-24.battalion.org.au','contact<br/>webmaster@2-24.battalion.org.au' ],
              ],
            }
 
