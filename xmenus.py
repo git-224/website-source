@@ -45,7 +45,7 @@ menutop={ 'home':HOMEBUTTON,
                        [ menu.Link, '/archives.html','Searching Archives'],
                      ],
                    ],
-                   [ menu.Link, '/gallery.html','Gallery'],
+                   [ menu.Link, '/gallery/2019/index.html','Gallery'],
                  ],
         }
 
