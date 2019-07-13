@@ -1,7 +1,9 @@
 <script>
 // Based on https://www.w3schools.com/howto/howto_js_filter_table.asp
 
-
+window.onload=function() {
+  document.getElementById("ssInput").focus();
+  };
 
 
 function SimpleSearchReset() {
