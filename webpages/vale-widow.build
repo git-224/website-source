@@ -1,0 +1,15 @@
+echo
+echo <hr>
+echo
+
+
+file  /vale_widows.md
+
+
+echo
+echo <hr>
+echo
+
+file  /vale_widows.csv
+.format   * **{0}** {1} {2}
+.convert md
