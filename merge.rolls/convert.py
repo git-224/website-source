@@ -197,12 +197,12 @@ class   Meta:
         snum=d.item(r,'vxno')
         sn=d.item(r,'surname')
         if not snum:
-          d.err(n,'no snum',r)
+          d.err(n,'no snumber',r)
         else:
           s=self.find_by_snum(snum)
           if not s:
             if snum and d!=maindb:
-              d.err(n,'new snum not in all list',r,s)
+              d.err(n,'new snumber not in all list',r,s)
             s=Person()
             self.rows.append( s )
             self.by_servicenumber[snum]=s
