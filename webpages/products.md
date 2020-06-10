@@ -2,30 +2,33 @@
 
 #  2/24th Items for sale
 
-These items may be purchased from<br>
+The folowing items may be purchased from the 2/24 Battalion Association.<br>
 
->    Treasurer
->    2/24th Battalion Assoc.,
->    19 Maree Court
->    Rowville
->    Vic  3178
+## Order and Payment methods
+1.	Post a cheque or money order made out to '2/24 Battalion Association' to accompany the order to 
+>    Treasurer, 2/24th Battalion Assoc.,<br>
+>    19 Maree Court<br>
+>    Rowville, Vic  3178<br>
+2.	Electronic Orders - send an email (with details of order and recipient address) to <br>
+	 orders@2-24.battalion.org.au (post a cheque or complete a bank transfer – see below)<br>
+  By bank transfer to: Account Name - The Australian Infantry Battalion Association, Inc. <br>
+  Commonwealth Bank of Australia: BSB 063 450  Account No. 1001 3626    <br>   
+   Please include surname and the product you are purchasing in the details box when transferring electronically, and send a         confirmation email to the above email address.
 
-  * Payment by cheque made out to '2/24 AIF Battalion Association Inc.'
-  * Prices include postage within Australia.
+* Prices include postage within Australia.
 
-
-
----
-
-
-## **Official History of 2/24 Australian Infantry Battalion** -- $65.00 each [New price]
+--
+## **Official History of 2/24 Australian Infantry Battalion** -- [out of stock - reprinting]
 
 ![Battalion History](images/product/book-r.jpg)
 
 
 ---
+## **Shooting Through - Katrina Kittel** -- $tba 
+![Shooting Through](images/product/shoot-r.jpg)
 
 
+---
 ## **Pens with logo of 2/24 Australian Infantry Battalion** -- $20.00 per set of 5
 
 ![Pen](images/product/pen.jpg)
@@ -60,5 +63,6 @@ For purchase by 2/24 Association members only.
 
   * Ties and Badges are for purchase by 2/24 Association members only.
   * The pens and history of the 2/24 are available for open purchase.
-  * Members may order by email. See Furphy Flyer for details and email address
+  * *Shooting Through* will be available at Association functions.
+ 
 
