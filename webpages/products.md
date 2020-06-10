@@ -4,28 +4,28 @@
 
 These items may be purchased from<br>
 
->    Treasurer
->    2/24th Battalion Assoc.,
+Order and Payment methods
+* 1.	Post a cheque or money order made out to '2/24 Battalion Association' to accompany the order to
+>    Treasurer, 2/24th Battalion Assoc.,
 >    19 Maree Court
->    Rowville
->    Vic  3178
+>    Rowville, Vic  3178
+* 2.	Electronic Orders - send an email (with details of order and recipient address) to
+>	    orders@2-24.battalion.org.au [post a cheque or complete a bank transfer – see below]
+>     By bank transfer to: Account Name: The Australian Infantry Battalion Association, Inc. [Commonwealth Bank of Australia]   
+>     BSB 063 450  Account No.  1001 3626       
+>     Please include surname and the product you are purchasing in the details box when transferring electronically, and send a      > confirmation email to the above email address.
 
-  * Payment by cheque made out to '2/24 AIF Battalion Association Inc.'
   * Prices include postage within Australia.
 
-
-
----
-
-
-## **Official History of 2/24 Australian Infantry Battalion** -- $65.00 each [New price]
+--
+## **Official History of 2/24 Australian Infantry Battalion** -- $65.00 each [out of stock - reprinting]
 
 ![Battalion History](images/product/book-r.jpg)
 
 
 ---
-
-
+## **Shooting Through - Katrina Kittel** -- $tba 
+![Shooting through] (images/product/shoot.jpg)
 ## **Pens with logo of 2/24 Australian Infantry Battalion** -- $20.00 per set of 5
 
 ![Pen](images/product/pen.jpg)
