@@ -7,7 +7,7 @@ The folowing items may be purchased from the 2/24 Battalion Association.<br>
 ## Order and Payment methods
 1.	Post a cheque or money order made out to '2/24 Battalion Association' to accompany the order to <br>
  Treasurer, 2/24th Battalion Assoc.,
- 19 Maree Court
+ 19 Maree Court,
  Rowville, Vic  3178
 2.	Electronic Orders - send an email (with details of order and recipient address) to <br>
 orders@2-24.battalion.org.au (post a cheque or complete a bank transfer – see belw)<br>
