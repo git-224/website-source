@@ -13,7 +13,7 @@ Order and Payment methods
 >	   orders@2-24.battalion.org.au [post a cheque or complete a bank transfer – see below]
 >    By bank transfer to: Account Name - The Australian Infantry Battalion Association, Inc. 
 >    [Commonwealth Bank of Australia]  BSB 063 450  Account No.  1001 3626       
->    Please include surname and the product you are purchasing in the details box when transferring electronically, and send a      >    confirmation email to the above email address.
+>    Please include surname and the product you are purchasing in the details box when transferring electronically, and send a         confirmation email to the above email address.
 
 * Prices include postage within Australia.
 
