@@ -25,7 +25,7 @@ Order and Payment methods
 
 ---
 ## **Shooting Through - Katrina Kittel** -- $tba 
-![Shooting through] (images/product/shoot.jpg)
+![Shooting through] (images/product/shoot-r.jpg)
 ## **Pens with logo of 2/24 Australian Infantry Battalion** -- $20.00 per set of 5
 
 ![Pen](images/product/pen.jpg)
