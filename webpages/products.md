@@ -4,13 +4,13 @@
 
 The folowing items may be purchased from the 2/24 Battalion Association.<br>
 
->Order and Payment methods
+## Order and Payment methods
 1.	Post a cheque or money order made out to '2/24 Battalion Association' to accompany the order to 
 >    Treasurer, 2/24th Battalion Assoc.,<br>
 >    19 Maree Court<br>
 >    Rowville, Vic  3178<br>
 2.	Electronic Orders - send an email (with details of order and recipient address) to
->	   orders@2-24.battalion.org.au (post a cheque or complete a bank transfer – see below)
+>	 orders@2-24.battalion.org.au (post a cheque or complete a bank transfer – see below)
 >    By bank transfer to: Account Name - The Australian Infantry Battalion Association, Inc. 
 >    Commonwealth Bank of Australia: BSB 063 450  Account No. 1001 3626       
 >    Please include surname and the product you are purchasing in the details box when transferring electronically, and send a         confirmation email to the above email address.
