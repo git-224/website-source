@@ -18,14 +18,14 @@ Order and Payment methods
 * Prices include postage within Australia.
 
 --
-## **Official History of 2/24 Australian Infantry Battalion** -- $65.00 each [out of stock - reprinting]
+## **Official History of 2/24 Australian Infantry Battalion** -- [out of stock - reprinting]
 
 ![Battalion History](images/product/book-r.jpg)
 
 
 ---
 ## **Shooting Through - Katrina Kittel** -- $tba 
-![Shooting Through] (images/product/shoot-r.jpg)
+![Shooting Through](images/product/shoot-r.jpg)
 
 
 ---
