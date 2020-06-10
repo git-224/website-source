@@ -27,7 +27,8 @@ Order and Payment methods
 ## **Shooting Through - Katrina Kittel** -- $tba 
 ![Shooting Through] (images/product/shoot-r.jpg)
 
---
+
+---
 ## **Pens with logo of 2/24 Australian Infantry Battalion** -- $20.00 per set of 5
 
 ![Pen](images/product/pen.jpg)
@@ -62,5 +63,5 @@ For purchase by 2/24 Association members only.
 
   * Ties and Badges are for purchase by 2/24 Association members only.
   * The pens and history of the 2/24 are available for open purchase.
-  * Members may order by email. See Furphy Flyer for details and email address
+ 
 
