@@ -63,5 +63,6 @@ For purchase by 2/24 Association members only.
 
   * Ties and Badges are for purchase by 2/24 Association members only.
   * The pens and history of the 2/24 are available for open purchase.
+  * *Shooting Through* will be available at Association functions.
  
 
