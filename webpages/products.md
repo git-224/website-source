@@ -13,7 +13,7 @@ The folowing items may be purchased from the 2/24 Battalion Association.<br>
 	 orders@2-24.battalion.org.au (post a cheque or complete a bank transfer – see below)<br>
   By bank transfer to: Account Name - The Australian Infantry Battalion Association, Inc. <br>
   Commonwealth Bank of Australia: BSB 063 450  Account No. 1001 3626    <br>   
->    Please include surname and the product you are purchasing in the details box when transferring electronically, and send a         confirmation email to the above email address.
+   Please include surname and the product you are purchasing in the details box when transferring electronically, and send a         confirmation email to the above email address.
 
 * Prices include postage within Australia.
 
