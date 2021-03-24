@@ -17,7 +17,7 @@ orders@2-24.battalion.org.au (post a cheque or complete a bank transfer – see 
 * Prices include postage within Australia.
 
 --
-## **Official History of 2/24 Australian Infantry Battalion** -- Members price $48; REtial $56
+## **Official History of 2/24 Australian Infantry Battalion** -- Members price $48; Retail $56
 
 ![Battalion History](images/product/Hist-book-r.jpg)
 
@@ -61,7 +61,7 @@ For purchase by 2/24 Association members only.
 # Please note:
 
   * Ties and Badges are for purchase by 2/24 Association members only.
-  * The pens and history of the 2/24 are available for open purchase.
+  * The pens, 'History of the 2/24' and 'Both side of the Hill' are available for open purchase.
   * *Shooting Through* will be available at Association functions.
  
 
